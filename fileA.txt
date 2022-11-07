@@ -1,1 +1,2 @@
-Feature1 with bugfix
+
+merge branch "Feature2"
