@@ -1,9 +1,7 @@
- HEAD
-
 Feature 1 with 
  bug fix
 Feature 2
- origin/Feature-2
 
 
- aa3a06b44d4f486c1101f3c68df88a6d90b9063f
+
+
